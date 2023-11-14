@@ -1,0 +1,1 @@
+The tasks directory is used for storing custom Rake tasks. Rake is a build automation tool for Ruby, and it's used in Rails for various tasks such as running database migrations, creating backups, or performing custom actions. Custom Rake tasks allow you to define your own commands to automate repetitive tasks or perform specific actions within your application. - Chad GiPTer
