@@ -1,0 +1,2 @@
+Application log files.
+https://guides.rubyonrails.org/getting_started.html

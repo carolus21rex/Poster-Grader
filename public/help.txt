@@ -1,0 +1,2 @@
+Contains static files and compiled assets. When your app is running, this directory will be exposed as-is.
+https://guides.rubyonrails.org/getting_started.html
