@@ -1,7 +1,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "Poster-Grade"
   spec.version       = "0.0.1"
-  spec.authors       = ["The Holy Trinity and Chad GiPTer Guides Us"]
+  spec.authors       = [""]
   spec.email         = ["ashingle@citadel.edu"]
   spec.summary       = "A brief description of your gem"
   spec.description   = "A detailed description of your gem"
