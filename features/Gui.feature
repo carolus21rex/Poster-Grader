@@ -22,3 +22,5 @@ Feature: Note Card #4
     When the user is logged in as a Contest Organizer
     And the user have Posters to grade
     Then the user is navigated to the Contest Organizer page
+    
+Given("the user{string} is a Contest Organizer{user}
